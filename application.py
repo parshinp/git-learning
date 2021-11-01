@@ -1,3 +1,3 @@
 echo "hi!"
-exho " double hi!!"
+echo "double hi!!"
 
